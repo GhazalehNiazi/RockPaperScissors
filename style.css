@@ -1,0 +1,30 @@
+*{
+    font-family: sans-serif;
+    background-color: rgb(110, 107, 107);
+    color: white;
+}
+main{
+    font-size: 3rem;
+    padding: 15rem 4.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+input{
+    padding : 1.5rem 0.25rem;
+    width: 10rem;
+    font-size: 2rem;
+    
+    
+}
+.containCheck{
+  
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.check{
+    font-size: 2.5rem;
+
+}
